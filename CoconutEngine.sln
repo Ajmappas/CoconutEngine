@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{427D0467-3018-4EC3-8BA9-4A7BAE50D6A6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CoconutEngine", "CoconutEngine\CoconutEngine.vcxproj", "{0C5B75EC-4930-430B-9E20-6E6794C207D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5B75EC-4930-430B-9E20-6E6794C207D3}.Debug|x64.ActiveCfg = Debug|x64
+		{0C5B75EC-4930-430B-9E20-6E6794C207D3}.Debug|x64.Build.0 = Debug|x64
+		{0C5B75EC-4930-430B-9E20-6E6794C207D3}.Release|x64.ActiveCfg = Release|x64
+		{0C5B75EC-4930-430B-9E20-6E6794C207D3}.Release|x64.Build.0 = Release|x64
+		{427D0467-3018-4EC3-8BA9-4A7BAE50D6A6}.Debug|x64.ActiveCfg = Debug|x64
+		{427D0467-3018-4EC3-8BA9-4A7BAE50D6A6}.Debug|x64.Build.0 = Debug|x64
+		{427D0467-3018-4EC3-8BA9-4A7BAE50D6A6}.Release|x64.ActiveCfg = Release|x64
+		{427D0467-3018-4EC3-8BA9-4A7BAE50D6A6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F76A1CA-1254-418D-B911-732A35227F51}
+	EndGlobalSection
+EndGlobal
