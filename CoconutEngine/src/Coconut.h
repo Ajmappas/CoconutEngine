@@ -1,9 +1,8 @@
 #pragma once
 
 //Coconut app only
-#include <stdio.h>
 #include "Coconut/Application.h"
-//#include "Coconut/Core.h"
+#include "Coconut/Log.h"
 
 //Entry Point
 #include "Coconut/EntryPoint.h"
